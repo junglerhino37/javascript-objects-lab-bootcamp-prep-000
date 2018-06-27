@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var recipes = {};
 
 
@@ -22,3 +23,6 @@ function updateObjectWithKeyAndValue(object, key, value){
     delete object[key]
     return object
   }
+=======
+var recipes
+>>>>>>> e745408d03b25d72c8f60c84db8a28125efa3841
